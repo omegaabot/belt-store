@@ -9,8 +9,7 @@ This project is built using HTML and CSS, and is hosted for free using GitHub Pa
 
 ## 🌐 Live Site
 
-🔗 [Visit the Website]([https://your-username.github.io/belt-store/](https://omegaabot.github.io/belt-store/))  
-> Replace the above link with your actual GitHub Pages URL after deployment
+🔗 [Visit the Website](https://omegaabot.github.io/belt-store/)
 
 ---
 
